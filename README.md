@@ -1,8 +1,6 @@
-> **Note:** Please follow the [repository conventions](https://github.com/EsriDevEvents/contributor-guides/blob/main/conventions.md#conventions-for-repositories) and [slugify](https://slugify.online/) the title of your repo
+# ArcGIS: Support for Geospatial Standards
 
-# Name of the session
-
-[Description of the session]
+Geospatial standards are the key to unlocking the value of spatial information. Learn about the key geospatial standards from the Open Geospatial Consortium (OGC) and International Organization for Standardization (ISO) and explore their practical application within ArcGIS. These standards—which underpin interoperability across diverse systems—define geometry, coordinate systems, and data formats for reliable data exchange, as well as metadata and web service standards for discovery and use.
 
 ## Slides and recording
 
