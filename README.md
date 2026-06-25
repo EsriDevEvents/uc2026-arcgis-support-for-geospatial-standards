@@ -32,14 +32,9 @@ Most of the slides are made available at [Esri Events > Proceedings](https://www
  #### ArcGIS Pro
    - [Consume OGC Services](https://pro.arcgis.com/en/pro-app/latest/help/data/services/use-ogc-api-services.htm)
 
- #### ArcGIS Maps SDK for JavaScript 
-   - [OGCFeatureLayer](https://developers.arcgis.com/javascript/latest/references/core/layers/OGCFeatureLayer/)
- 
- #### ArcGIS Maps SDK for .NET
-   - [OgcFeatureCollectionTable Reference](https://developers.arcgis.com/net/api-reference/api/ios/Esri.ArcGISRuntime/Esri.ArcGISRuntime.Data.OgcFeatureCollectionTable.html)
-   - [Browse an OGC API Feature Service](https://developers.arcgis.com/net/wpf/sample-code/browse-ogc-api-feature-service/)
-   - [Display an API Collection](https://developers.arcgis.com/net/wpf/sample-code/display-ogc-api-collection/)
-   - [Query with CQL Filters](https://developers.arcgis.com/net/wpf/sample-code/query-with-cql-filters/)
-  
- #### ArcGIS API for Python
-   - [Publishing and Consuming OGC Services](https://developers.arcgis.com/python/latest/samples/publish-ogc-services)
+### Demo Links
+ #### GeoParquet Portion
+ - [Data Generation At Scale - Esri Community](https://community.esri.com/t5/etl-patterns-blog/data-generation-at-scale/ba-p/1663223)
+ - [Overture Maps Places Data Information](https://docs.overturemaps.org/guides/places/)
+ #### GeoPackage, Metadata, & Web GIS
+ - [AU Digital Boundary Files](https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs/edition-3-july-2021-june-2026/access-and-downloads/digital-boundary-files)
